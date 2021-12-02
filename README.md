@@ -104,10 +104,10 @@ Linux -
 
 ```
 # Shared config volume
-CONFIG=/home/james/diveintoansible-lab/config
+CONFIG=/home/jubril/git/diveintoansible-lab/config
 
 # Shared home directories
-ANSIBLE_HOME=/home/james/diveintoansible-lab/ansible_home
+ANSIBLE_HOME=/home/jubril/git/diveintoansible-lab/ansible_home
 ```
 
 ### Running the lab

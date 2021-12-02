@@ -72,8 +72,8 @@ services:
   centos1:
     hostname: centos1
     container_name: centos1
-    image: spurin/diveintoansible:centos
-    #image: spurin/diveintoansible:centos-sshd-2222
+    #image: spurin/diveintoansible:centos
+    image: spurin/diveintoansible:centos-sshd-2222
     ports: 
      - ${CENTOS1_PORT_SSHD}:22
      #- ${CENTOS1_PORT_SSHD}:2222
